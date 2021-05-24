@@ -1,4 +1,4 @@
-👋 Hi, I’m @someq. My real name is Farid, I am a *whatever* developer from [Kyrgyztan](https://en.wikipedia.org/wiki/Kyrgyzstan) (country of clean water and huge mountains, visit us some time!).
+👋 Hi, I’m [@someq](https://github.com/someq). My real name is Farid, I am a *whatever* developer from [Kyrgyztan](https://en.wikipedia.org/wiki/Kyrgyzstan) (country of clean water and huge mountains, visit us some time!).
 *Whatever* means I can write anything in any language, but prefer:
  * Python,
  * JavaScript,
